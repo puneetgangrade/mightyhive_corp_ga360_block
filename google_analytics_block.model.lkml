@@ -1,4 +1,4 @@
-connection: "bigquery-connectors-ga360"
+connection: "mightyhive_corporate_looker_poc"
 
 # include all the views
 include: "*.view"
